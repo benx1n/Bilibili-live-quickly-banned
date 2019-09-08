@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="bilibili-live-rapid-banned">Bilibili-live-rapid-banned</h1>
 <p>由于B站原生HTML播放器不支持全屏下管理弹幕，弹幕列表管理又过于繁琐，无法应付一些高流量直播间（没错就是狐狸的）在组长的“搞一个呗”要求下摸了这么个插件，实现HTML播放器下快速封禁效果API接口来自<a href="https://github.com/dd-center/bilibili-live-noscript">DD-center大佬开发的批量禁言脚本</a></p>
 <h1 id="效果">效果</h1>
