@@ -1,0 +1,17 @@
+.user_fengjin_crx span{
+  color: red;
+  cursor: pointer;
+}
+.user_fengjin_crx span:hover{
+  color: blue;
+}
+.user_fengjin_crx span.menu_add{
+  margin-left: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  display: inline-block;
+}
+.user_fengjin_crx span.menu_add:hover{
+  color: yellow
+}

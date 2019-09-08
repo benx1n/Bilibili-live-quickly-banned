@@ -1,0 +1,16 @@
+
+#popupname{
+	width:200px;
+	overflow:hidden
+}
+#popupname img{
+	float:left;
+	margin-right:5px;
+}
+#popupname span{
+	height:26px;
+	line-height:20px;
+	display:inline-block;
+	
+}
+
